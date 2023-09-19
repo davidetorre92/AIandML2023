@@ -1,6 +1,6 @@
 # Artificial Intelligence and Machine Learning Course Repository
 
-Welcome to the official repository for the **Machine Learning and Artificial Intelligence** course at [University Name] for the academic year 2023. This repository serves as a central hub for course materials, resources, and assignments.
+Welcome to the repository for the **Artificial Intelligence and Machine Learning** laboratory session for the course at LUISS for the academic year 2023. This repository serves as a backup hub for laboratory sessions materials.
 
 ## About the Course
 
